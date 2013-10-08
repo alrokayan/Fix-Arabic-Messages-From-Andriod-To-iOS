@@ -47,3 +47,6 @@ Copy the Arabic text from the browser (or from anywhere), then open the app, the
 
 # Android Play Store
 https://play.google.com/store/apps/details?id=com.alrokayan.fix.arabic.iPhoneUTF8
+
+# Download APK
+http://dl.dropbox.com/u/550719/ArabicFixForiPhone/Latest/Arabic%20Fix%20For%20iPhone.apk
